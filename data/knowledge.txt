@@ -1,0 +1,33 @@
+Object-Oriented Programming (OOP)
+
+Object-Oriented Programming is a programming paradigm based on objects and classes. The major concepts of OOP are encapsulation, inheritance, polymorphism, and abstraction.
+
+
+Inheritance
+
+Inheritance allows a class to acquire properties and methods from another class. It promotes code reuse and establishes relationships between classes.
+
+
+Polymorphism
+
+Polymorphism allows objects of different classes to respond to the same interface or method call in different ways.
+
+
+Encapsulation
+
+Encapsulation is the bundling of data and methods inside a class while controlling access to the internal state of an object.
+
+
+Machine Learning
+
+Machine Learning is a branch of artificial intelligence in which computer systems learn patterns from data and use those patterns to make predictions or decisions.
+
+
+Supervised Learning
+
+Supervised learning uses labeled training data. Common supervised learning tasks include classification and regression.
+
+
+Deep Learning
+
+Deep Learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns from data.
